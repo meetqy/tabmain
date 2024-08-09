@@ -8,6 +8,8 @@ tags:
 description: Key terms used in mathematical word problems.
 ---
 
+Key terms used in mathematical word problems.
+
 | Operation      | Keywords                                                             |
 | -------------- | -------------------------------------------------------------------- |
 | Addition       | Add, Sum, Total, All together, Plus, In all                          |

@@ -8,6 +8,8 @@ tags:
 description: '"X" List of countries featured in the "#1" News App.'
 ---
 
+"X" List of countries featured in the "#1" News App.
+
 | Countries                        |
 | -------------------------------- |
 | United States                    |

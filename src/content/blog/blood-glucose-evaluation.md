@@ -8,6 +8,8 @@ tags:
 description: A guide to evaluating blood glucose levels at different times.
 ---
 
+A guide to evaluating blood glucose levels at different times.
+
 | Time      | Fasting | 1 Hour After Meal | 2 Hours After Meal | 3 Hours After Meal |
 | --------- | ------- | ----------------- | ------------------ | ------------------ |
 | Normal    | 4.4–6.1 | 6.7–8.3           | 5.0–7.2            | 4.4–6.7            |

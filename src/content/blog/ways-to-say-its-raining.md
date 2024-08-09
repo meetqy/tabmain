@@ -8,6 +8,8 @@ tags:
 description: Various expressions to describe rain intensity.
 ---
 
+Various expressions to describe rain intensity.
+
 | Phrase                     | Description                                 |
 | -------------------------- | ------------------------------------------- |
 | It's pouring down          | raining very heavily                        |
